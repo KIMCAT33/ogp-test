@@ -42,7 +42,7 @@ const ShowPost: NextPage<ServerSideProps> = ({ post }) => {
         <title>{post.title}</title>
         <OpenGraph properties={ogProperties} />
       </Head>
-        <script dangerouslySetInnerHTML={{ __html: `window.location.href = "https://www.google.com";` }} />
+        <script dangerouslySetInnerHTML={{ __html: `window.location.href = "https://linktr.ee/boomlabs";` }} />
     </>
   );
 };

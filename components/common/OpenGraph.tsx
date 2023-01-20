@@ -72,6 +72,11 @@ export type OGProperties = {
         <meta name="twitter:description" content={description || ""} />
         <meta name="twitter:site" content="@codersteps" />
         <meta name="twitter:creator" content="@abdessamadely" />
+        { image && (
+            <>
+                <meta name="twitter:image" content={image.url} />
+            </>      
+        )}
       </>
     );
   };
