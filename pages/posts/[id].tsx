@@ -20,7 +20,7 @@ interface ServerSideProps {
 const ShowPost: NextPage<ServerSideProps> = ({ post }) => {
 
   const ogProperties = useOpenGraph({
-    url: absUrl(`/posts/${post.id}`),
+    url: "https://linktr.ee/boomlabs",
     title: post.title,
     image: {
       // The post thumbnail
