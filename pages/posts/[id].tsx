@@ -39,24 +39,9 @@ const ShowPost: NextPage<ServerSideProps> = ({ post }) => {
     <>
       <Head>
         <title>{post.title}</title>
-
         <OpenGraph properties={ogProperties} />
       </Head>
-
-      <main>
-        <article>
-          <h1>{post.title}</h1>
-
-          <Image
-            width={720}
-            height={420}
-            src={post.thumbnail}
-            alt={post.title}
-          />
-
-          <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
-        </article>
-      </main>
+        <script dangerouslySetInnerHTML={{ __html: `window.location.href = "https://www.google.com";` }} />
     </>
   );
 };
