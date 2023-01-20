@@ -2,21 +2,21 @@
     {
       "id": 1,
       "title": "Post 1",
-      "thumbnail": "https://media.sproutsocial.com/uploads/2021/08/Best-times-to-post-2022_BTTP-Social-Media.svg",
+      "thumbnail": "https://images.ctfassets.net/jg6lo9a2ukvr/2Qzv2pbOkbATABsLxNZwXl/a4c1c6cd0232f9cb90e41aee1226bdd3/Blog_Header_-__doge__earn.jpg",
       "description": "Description of post 1",
       "content": "Content of post 1"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "thumbnail": "https://media.sproutsocial.com/uploads/2022/04/Best-times-to-post-2022_BTTP-Instagram.svg",
+      "thumbnail": "https://content.api.news/v3/images/bin/68616fc17925439158230f776b727a91",
       "description": "Description of post 2",
       "content": "Content of post 2"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "thumbnail": "https://media.sproutsocial.com/uploads/2019/08/2109_Instagram_Best_Practices_Artboard-1-copy.svg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-y4l3ZWA9M2fL1q4y1yiy_ekXYMi83EYLGSacx6QC8Hy6kATqtfPBbMVBag2VUOwUrE&usqp=CAU",
       "description": "Description of post 3",
       "content": "Content of post 3"
     }
