@@ -1,16 +1,16 @@
 [
     {
       "id": 1,
-      "title": "Post 1",
+      "title": "",
       "thumbnail": "https://images.ctfassets.net/jg6lo9a2ukvr/2Qzv2pbOkbATABsLxNZwXl/a4c1c6cd0232f9cb90e41aee1226bdd3/Blog_Header_-__doge__earn.jpg",
       "description": "Description of post 1",
       "content": "Content of post 1"
     },
     {
       "id": 2,
-      "title": "Post 2",
+      "title": "Content Marketing Examples",
       "thumbnail": "https://elementor.com/marketing/wp-content/uploads/sites/9/2022/02/2022_02_8-Best-Content-Marketing-Examples-To-Inspire-You-in-2022_1200_630-2.jpg",
-      "description": "Description of post 2",
+      "description": "INSPIRATION: 8 Best Content Marketing Examples To Inspire You in 2022",
       "content": "Content of post 2"
     },
     {
